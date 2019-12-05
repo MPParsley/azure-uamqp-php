@@ -2,7 +2,7 @@
 
 PHP binding for Azure uAMQP C (AMQP 1.0) - currently being used with Azure Service Bus (Topics and Subscriptions) but should work for everything else that works with AMQP 1.0.
 
-This is a wrapper for the C library provided by Azure (Azure uAMQP C), builded as an extension in PHP, providing PHP classes so that PHP code can work with AMQP 1.0.
+This is a wrapper for the C library provided by Azure (Azure uAMQP C), built as an extension in PHP, providing PHP classes so that PHP code can work with AMQP 1.0.
 
 Currently being used with PHP 7.2.
 
